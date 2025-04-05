@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "role": "Front-End Developer -- Intern",
+    "organisation": "KickEdge",
+    "startDate": "Aug, 2023",
+    "endDate": "Oct, 2023",
+    "location": "Greater Noida, India",
+    "experiences": [
+      "Worked as the Front-end Developer",
+      "Worked on the landing page of the website using React"
+    ],
+    "imageSrc": "company/KickEdge.png"
+  }
+]
