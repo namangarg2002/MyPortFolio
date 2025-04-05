@@ -1,15 +1,15 @@
 [
   {
     "id": 1,
-    "role": "Front-End Developer -- Intern",
-    "organisation": "KickEdge",
+    "role": "Software Development -- Intern",
+    "organisation": "SecureHack",
     "startDate": "Aug, 2023",
-    "endDate": "Oct, 2023",
-    "location": "Greater Noida, India",
+    "endDate": "July, 2023",
+    "location": "Remote",
     "experiences": [
-      "Worked as the Front-end Developer",
-      "Worked on the landing page of the website using React"
+      "Worked as the Software Developer",
+      "Built a tool to detect system vulnerabilities and identify network anomalies in real-time."
     ],
-    "imageSrc": "company/KickEdge.png"
+    "imageSrc": "company/SecureHack.svg"
   }
 ]

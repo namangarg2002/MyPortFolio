@@ -15,22 +15,22 @@ const Contact = () => {
       data-aos="zoom-in-up"
       data-aos-duration="1000"
       >
-        <a href='mailto:siddhantgautam018@gmail.com' target='_blank' className="items">
+        <a href='mailto:gargnaman016@gmail.com' target='_blank' className="items">
           <SiGmail className='icons'/>
         </a>
-        <a href='https://www.instagram.com/siddhantgautam7386/' target='_blank' className="items">
+        <a href='https://www.instagram.com/garg.naman_02/' target='_blank' className="items">
           <FaInstagram className='icons'/>
         </a>
-        <a href='https://www.linkedin.com/in/siddhant-gautam-906951270/' target='_blank' className="items">
+        <a href='https://www.linkedin.com/in/naman-garg02/' target='_blank' className="items">
           <FaLinkedinIn className='icons'/>
         </a>
-        <a href='https://github.com/Siddhant999OG' target='_blank' className="items">
+        <a href='https://github.com/namangarg2002' target='_blank' className="items">
           <FaGithub className='icons'/>
         </a>
-        <a href='https://leetcode.com/u/SiddhantOG/' target='_blank' className="items">
+        <a href='https://leetcode.com/u/namangarg20021128/' target='_blank' className="items">
           <SiLeetcode className='icons'/>
         </a>
-        <a href='https://www.hackerrank.com/profile/siddhantgautam01' target='_blank' className="items">
+        <a href='https://www.hackerrank.com/profile/namangarg2002111' target='_blank' className="items">
           <FaHackerrank className='icons'/>
         </a>
       </div>

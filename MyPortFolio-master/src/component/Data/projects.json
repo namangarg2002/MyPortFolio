@@ -1,34 +1,34 @@
 [
   {
     "key": 1,
-    "title": "Tomato",
-    "imageSrc": "assets/Projects/Tomato.png",
-    "description": "Discover Food and order seamlessly.",
-    "demo": "https://tomato-food.vercel.app/",
-    "source": "https://github.com/Siddhant999OG/Tomato-Food"
+    "title": "TrackMyCash",
+    "imageSrc": "assets/Projects/TrackMyCash.jpg",
+    "description": "React-Powered Financial Dashboard with Visualizations",
+    "demo": "https://trackmycash-expense-tracker.netlify.app/",
+    "source": "https://github.com/namangarg2002/TrackMyCash"
   },
   {
     "key": 2,
-    "title": "AlphaAi",
-    "imageSrc": "assets/Projects/AlphaAi.png",
+    "title": "TrendOra",
+    "imageSrc": "assets/Projects/TrendOra.jpg",
     "description": "Made an AI companion for answers, advice, and conversation.",
-    "demo": "https://alpha-ai-gamma.vercel.app/",
-    "source": "https://github.com/Siddhant999OG/Alpha.AI"
+    "demo": "https://e-commerce-trendora.netlify.app/",
+    "source": "https://github.com/namangarg2002/Trendora"
   },
   {
     "key": 3,
-    "title": "Inflation Analysis",
-    "imageSrc": "assets/Projects/Inflation.png",
-    "description": "Use Python library Streamlit for inflation rate analysis.",
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "TechTrendz",
+    "imageSrc": "assets/Projects/TechTrendz.jpg",
+    "description": "Modern React e-commerce with sleek animations",
+    "demo": "https://techtrendz-e-commerce.netlify.app/",
+    "source": "https://github.com/namangarg2002/TechTrendz"
   },
   {
     "key": 4,
-    "title": "PortFolio",
-    "imageSrc": "assets/Projects/PortFolio.png",
-    "description": "Showcasing my skills, achievements, and aspirations through curated work.",
-    "demo": "https://my-port-folio-bay.vercel.app/",
-    "source": "https://github.com/Siddhant999OG/MyPortFolio"
+    "title": "TextUtils",
+    "imageSrc": "assets/Projects/TextUtils.jpg",
+    "description": "React-based text utility app with dark mode",
+    "demo": "https://textutil-text-utility.netlify.app/",
+    "source": "https://github.com/namangarg2002/TextUtil"
   }
 ]
